@@ -1,0 +1,6 @@
+[04-Jul-2023 19:26:45 America/New_York] PHP Warning:  Undefined variable $fname in /home/machsrhe/ibank.danamontrust.com/login.php on line 348
+[04-Jul-2023 19:26:45 America/New_York] PHP Warning:  Undefined variable $fname in /home/machsrhe/ibank.danamontrust.com/login.php on line 411
+[04-Jul-2023 19:27:20 America/New_York] PHP Warning:  Undefined variable $fname in /home/machsrhe/ibank.danamontrust.com/login.php on line 348
+[04-Jul-2023 19:27:20 America/New_York] PHP Warning:  Undefined variable $fname in /home/machsrhe/ibank.danamontrust.com/login.php on line 411
+[04-Jul-2023 19:32:08 America/New_York] PHP Notice:  Undefined variable: fname in /home/machsrhe/ibank.danamontrust.com/login.php on line 348
+[04-Jul-2023 19:32:08 America/New_York] PHP Notice:  Undefined variable: fname in /home/machsrhe/ibank.danamontrust.com/login.php on line 411

@@ -1,0 +1,4 @@
+[16-Jun-2023 09:04:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function lu() in /home/trusvbsz/myonline.eparwisecapital.com/assets/scss/soft-ui-dashboard/cards/ctwqtgwd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/trusvbsz/myonline.eparwisecapital.com/assets/scss/soft-ui-dashboard/cards/ctwqtgwd.php on line 5

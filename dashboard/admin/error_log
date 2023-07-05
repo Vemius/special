@@ -1,0 +1,288 @@
+[21-Oct-2022 11:37:29 America/New_York] PHP Warning:  extract() expects parameter 1 to be array, bool given in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 32
+[21-Oct-2022 11:37:29 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 126
+[21-Oct-2022 11:37:29 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 143
+[21-Oct-2022 11:37:29 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 161
+[21-Oct-2022 11:37:29 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 167
+[21-Oct-2022 11:37:29 America/New_York] PHP Notice:  Undefined variable: uname in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 79
+[21-Oct-2022 11:37:29 America/New_York] PHP Notice:  Undefined variable: amount in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 84
+[21-Oct-2022 11:37:29 America/New_York] PHP Notice:  Undefined variable: remarks in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 89
+[21-Oct-2022 11:37:29 America/New_York] PHP Notice:  Undefined variable: type in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 95
+[21-Oct-2022 11:37:29 America/New_York] PHP Notice:  Undefined variable: statz in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 105
+[21-Oct-2022 11:37:29 America/New_York] PHP Notice:  Undefined variable: date in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 120
+[21-Oct-2022 11:37:29 America/New_York] PHP Notice:  Undefined variable: time in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 125
+[21-Oct-2022 11:39:20 America/New_York] PHP Warning:  extract() expects parameter 1 to be array, bool given in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 32
+[21-Oct-2022 11:39:20 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 126
+[21-Oct-2022 11:39:20 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 143
+[21-Oct-2022 11:39:20 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 161
+[21-Oct-2022 11:39:20 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 167
+[21-Oct-2022 11:39:20 America/New_York] PHP Notice:  Undefined variable: uname in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 79
+[21-Oct-2022 11:39:20 America/New_York] PHP Notice:  Undefined variable: amount in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 84
+[21-Oct-2022 11:39:20 America/New_York] PHP Notice:  Undefined variable: remarks in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 89
+[21-Oct-2022 11:39:20 America/New_York] PHP Notice:  Undefined variable: type in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 95
+[21-Oct-2022 11:39:20 America/New_York] PHP Notice:  Undefined variable: statz in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 105
+[21-Oct-2022 11:39:20 America/New_York] PHP Notice:  Undefined variable: date in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 120
+[21-Oct-2022 11:39:20 America/New_York] PHP Notice:  Undefined variable: time in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 125
+[21-Oct-2022 11:41:12 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 126
+[21-Oct-2022 11:41:12 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 143
+[21-Oct-2022 11:41:12 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 161
+[21-Oct-2022 11:41:12 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 167
+[21-Oct-2022 11:41:12 America/New_York] PHP Notice:  Undefined variable: uname in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 79
+[21-Oct-2022 11:41:12 America/New_York] PHP Notice:  Undefined variable: statz in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 105
+[21-Oct-2022 11:41:12 America/New_York] PHP Notice:  Undefined variable: time in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 125
+[21-Oct-2022 11:43:45 America/New_York] PHP Notice:  Undefined index: time in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 11
+[21-Oct-2022 11:46:25 America/New_York] PHP Notice:  Undefined index: acc_no in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 6
+[21-Oct-2022 11:46:25 America/New_York] PHP Notice:  Undefined index: status in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 11
+[21-Oct-2022 11:46:25 America/New_York] PHP Notice:  Undefined variable: time in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 14
+[21-Oct-2022 11:46:25 America/New_York] PHP Notice:  Undefined variable: status in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 14
+[21-Oct-2022 11:46:48 America/New_York] PHP Notice:  Undefined index: acc_no in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 6
+[21-Oct-2022 11:46:48 America/New_York] PHP Notice:  Undefined index: status in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 11
+[21-Oct-2022 11:46:48 America/New_York] PHP Notice:  Undefined variable: time in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 14
+[21-Oct-2022 11:46:48 America/New_York] PHP Notice:  Undefined variable: status in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 14
+[21-Oct-2022 11:48:33 America/New_York] PHP Notice:  Undefined index: acc_no in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 6
+[21-Oct-2022 11:48:33 America/New_York] PHP Notice:  Undefined index: status in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 11
+[21-Oct-2022 11:48:33 America/New_York] PHP Notice:  Undefined variable: time in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 14
+[21-Oct-2022 11:48:54 America/New_York] PHP Notice:  Undefined index: acc_no in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 6
+[21-Oct-2022 11:48:54 America/New_York] PHP Notice:  Undefined index: status in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 11
+[21-Oct-2022 11:48:54 America/New_York] PHP Notice:  Undefined variable: time in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 14
+[21-Oct-2022 11:49:52 America/New_York] PHP Notice:  Undefined index: acc_no in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 6
+[21-Oct-2022 11:49:52 America/New_York] PHP Notice:  Undefined index: status in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 11
+[21-Oct-2022 11:49:52 America/New_York] PHP Notice:  Undefined variable: time in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 14
+[21-Oct-2022 11:50:14 America/New_York] PHP Notice:  Undefined index: acc_no in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 6
+[21-Oct-2022 11:50:14 America/New_York] PHP Notice:  Undefined index: status in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 11
+[21-Oct-2022 11:50:14 America/New_York] PHP Notice:  Undefined variable: time in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 14
+[21-Oct-2022 11:51:42 America/New_York] PHP Notice:  Undefined index: acc_no in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 6
+[21-Oct-2022 11:51:42 America/New_York] PHP Notice:  Undefined index: status in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 11
+[21-Oct-2022 11:52:31 America/New_York] PHP Notice:  Undefined index: acc_no in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 6
+[21-Oct-2022 11:52:31 America/New_York] PHP Notice:  Undefined index: status in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 11
+[21-Oct-2022 11:54:21 America/New_York] PHP Notice:  Undefined index: acc_no in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 6
+[21-Oct-2022 11:54:21 America/New_York] PHP Notice:  Undefined index: status in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 11
+[21-Oct-2022 11:55:16 America/New_York] PHP Notice:  Undefined index: acc_no in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 6
+[21-Oct-2022 11:55:16 America/New_York] PHP Notice:  Undefined index: transtype in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 9
+[21-Oct-2022 11:55:16 America/New_York] PHP Notice:  Undefined index: status in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 11
+[21-Oct-2022 11:56:44 America/New_York] PHP Notice:  Undefined index: acc_no in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 6
+[21-Oct-2022 11:56:44 America/New_York] PHP Notice:  Undefined index: transtype in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 9
+[21-Oct-2022 11:56:44 America/New_York] PHP Notice:  Undefined index: status in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/e.php on line 11
+[21-Oct-2022 11:58:05 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 126
+[21-Oct-2022 11:58:05 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 143
+[21-Oct-2022 11:58:05 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 161
+[21-Oct-2022 11:58:05 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 167
+[21-Oct-2022 11:58:38 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 126
+[21-Oct-2022 11:58:38 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 143
+[21-Oct-2022 11:58:38 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 161
+[21-Oct-2022 11:58:38 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 167
+[21-Oct-2022 11:59:15 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 126
+[21-Oct-2022 11:59:15 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 143
+[21-Oct-2022 11:59:15 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 161
+[21-Oct-2022 11:59:15 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 167
+[21-Oct-2022 12:00:44 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 126
+[21-Oct-2022 12:00:44 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 143
+[21-Oct-2022 12:00:44 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 161
+[21-Oct-2022 12:00:44 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 167
+[21-Oct-2022 12:00:55 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 126
+[21-Oct-2022 12:00:55 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 143
+[21-Oct-2022 12:00:55 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 161
+[21-Oct-2022 12:00:55 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 167
+[21-Oct-2022 12:04:43 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 126
+[21-Oct-2022 12:04:43 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 143
+[21-Oct-2022 12:04:43 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 161
+[21-Oct-2022 12:04:43 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 167
+[21-Oct-2022 12:07:43 America/New_York] PHP Notice:  Undefined variable: reg_user in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-transfer.php on line 20
+[21-Oct-2022 12:07:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-transfer.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-transfer.php on line 20
+[21-Oct-2022 12:09:44 America/New_York] PHP Notice:  Undefined variable: reg_user in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-transfer.php on line 20
+[21-Oct-2022 12:09:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-transfer.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-transfer.php on line 20
+[21-Oct-2022 12:32:21 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 126
+[21-Oct-2022 12:32:21 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 143
+[21-Oct-2022 12:32:21 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 161
+[21-Oct-2022 12:32:21 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 167
+[21-Oct-2022 12:33:49 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 126
+[21-Oct-2022 12:33:49 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 143
+[21-Oct-2022 12:33:49 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 161
+[21-Oct-2022 12:33:49 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 167
+[21-Oct-2022 12:35:11 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 126
+[21-Oct-2022 12:35:11 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 143
+[21-Oct-2022 12:35:11 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 161
+[21-Oct-2022 12:35:11 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 167
+[23-Oct-2022 04:06:10 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 125
+[23-Oct-2022 04:06:10 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 142
+[23-Oct-2022 04:06:10 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 160
+[23-Oct-2022 04:06:10 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/menu.php on line 166
+[23-Oct-2022 04:17:50 America/New_York] PHP Notice:  Undefined index: pin in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-customer.php on line 11
+[23-Oct-2022 04:17:50 America/New_York] PHP Notice:  Undefined index: imf in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-customer.php on line 30
+[23-Oct-2022 04:18:02 America/New_York] PHP Notice:  Undefined index: pin in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-customer.php on line 11
+[23-Oct-2022 04:18:02 America/New_York] PHP Notice:  Undefined index: imf in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-customer.php on line 30
+[23-Oct-2022 04:18:07 America/New_York] PHP Notice:  Undefined index: pin in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-customer.php on line 11
+[23-Oct-2022 04:18:07 America/New_York] PHP Notice:  Undefined index: imf in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-customer.php on line 30
+[23-Oct-2022 04:19:46 America/New_York] PHP Notice:  Undefined index: pin in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-customer.php on line 11
+[23-Oct-2022 04:19:46 America/New_York] PHP Notice:  Undefined index: imf in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-customer.php on line 30
+[23-Oct-2022 04:20:38 America/New_York] PHP Notice:  Undefined index: pin in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-customer.php on line 11
+[23-Oct-2022 04:20:38 America/New_York] PHP Notice:  Undefined index: imf in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-customer.php on line 30
+[23-Oct-2022 04:22:12 America/New_York] PHP Notice:  Undefined index: pin in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-customer.php on line 11
+[23-Oct-2022 04:22:12 America/New_York] PHP Notice:  Undefined index: imf in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-customer.php on line 30
+[23-Oct-2022 04:22:40 America/New_York] PHP Notice:  Undefined index: imf in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-customer.php on line 30
+[23-Oct-2022 04:23:10 America/New_York] PHP Notice:  Undefined index: imf in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-customer.php on line 30
+[23-Oct-2022 04:23:18 America/New_York] PHP Notice:  Undefined index: imf in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-customer.php on line 30
+[23-Oct-2022 04:23:28 America/New_York] PHP Notice:  Undefined index: imf in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-customer.php on line 30
+[02-Nov-2022 18:57:17 America/New_York] PHP Notice:  Undefined index: imf in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-customer.php on line 30
+[02-Nov-2022 18:57:31 America/New_York] PHP Notice:  Undefined index: imf in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-customer.php on line 30
+[02-Nov-2022 18:58:01 America/New_York] PHP Notice:  Undefined index: imf in /home/zcsalwvd/online-access.zcsavings.com/dashboard/admin/edit-customer.php on line 30
+[22-Jan-2023 07:33:03 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[22-Jan-2023 07:33:03 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[22-Jan-2023 07:33:03 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[22-Jan-2023 07:33:03 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[22-Jan-2023 07:35:09 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[22-Jan-2023 07:35:09 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[22-Jan-2023 07:35:09 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[22-Jan-2023 07:35:09 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[23-Jan-2023 06:03:24 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[23-Jan-2023 06:03:24 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[23-Jan-2023 06:03:24 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[23-Jan-2023 06:03:24 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[23-Jan-2023 06:05:10 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[23-Jan-2023 06:05:10 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[23-Jan-2023 06:05:10 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[23-Jan-2023 06:05:10 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[23-Jan-2023 06:19:52 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[23-Jan-2023 06:19:52 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[23-Jan-2023 06:19:52 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[23-Jan-2023 06:19:52 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[23-Jan-2023 06:42:42 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[23-Jan-2023 06:42:42 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[23-Jan-2023 06:42:42 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[23-Jan-2023 06:42:42 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[23-Jan-2023 06:42:52 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[23-Jan-2023 06:42:52 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[23-Jan-2023 06:42:52 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[23-Jan-2023 06:42:52 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[23-Jan-2023 06:45:33 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[23-Jan-2023 06:45:33 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[23-Jan-2023 06:45:33 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[23-Jan-2023 06:45:33 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[23-Jan-2023 06:46:05 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[23-Jan-2023 06:46:05 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[23-Jan-2023 06:46:05 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[23-Jan-2023 06:46:05 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[23-Jan-2023 06:48:28 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[23-Jan-2023 06:48:28 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[23-Jan-2023 06:48:28 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[23-Jan-2023 06:48:28 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[23-Jan-2023 06:49:14 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[23-Jan-2023 06:49:14 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[23-Jan-2023 06:49:14 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[23-Jan-2023 06:49:14 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[23-Jan-2023 06:49:29 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[23-Jan-2023 06:49:29 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[23-Jan-2023 06:49:29 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[23-Jan-2023 06:49:29 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[23-Jan-2023 06:50:44 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[23-Jan-2023 06:50:44 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[23-Jan-2023 06:50:44 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[23-Jan-2023 06:50:44 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[23-Jan-2023 06:50:55 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[23-Jan-2023 06:50:55 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[23-Jan-2023 06:50:55 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[23-Jan-2023 06:50:55 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[23-Jan-2023 07:00:55 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[23-Jan-2023 07:00:55 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[23-Jan-2023 07:00:55 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[23-Jan-2023 07:00:55 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[23-Jan-2023 07:01:03 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[23-Jan-2023 07:01:03 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[23-Jan-2023 07:01:03 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[23-Jan-2023 07:01:03 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[23-Jan-2023 07:05:59 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[23-Jan-2023 07:05:59 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[23-Jan-2023 07:05:59 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[23-Jan-2023 07:05:59 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[23-Jan-2023 07:06:17 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[23-Jan-2023 07:06:17 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[23-Jan-2023 07:06:17 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[23-Jan-2023 07:06:17 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[23-Jan-2023 23:22:49 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[23-Jan-2023 23:22:49 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[23-Jan-2023 23:22:49 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[23-Jan-2023 23:22:49 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[24-Jan-2023 00:25:42 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[24-Jan-2023 00:25:42 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[24-Jan-2023 00:25:42 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[24-Jan-2023 00:25:42 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[24-Jan-2023 00:26:03 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[24-Jan-2023 00:26:03 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[24-Jan-2023 00:26:03 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[24-Jan-2023 00:26:03 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[24-Jan-2023 00:26:58 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[24-Jan-2023 00:26:58 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[24-Jan-2023 00:26:58 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[24-Jan-2023 00:26:58 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[24-Jan-2023 00:27:20 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[24-Jan-2023 00:27:20 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[24-Jan-2023 00:27:20 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[24-Jan-2023 00:27:20 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[24-Jan-2023 05:08:35 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[24-Jan-2023 05:08:35 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[24-Jan-2023 05:08:35 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[24-Jan-2023 05:08:35 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[24-Jan-2023 05:11:13 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[24-Jan-2023 05:11:13 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[24-Jan-2023 05:11:13 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[24-Jan-2023 05:11:13 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[24-Jan-2023 05:12:19 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[24-Jan-2023 05:12:19 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[24-Jan-2023 05:12:19 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[24-Jan-2023 05:12:19 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[26-Jan-2023 15:41:01 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[26-Jan-2023 15:41:01 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[26-Jan-2023 15:41:01 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[26-Jan-2023 15:41:01 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[26-Jan-2023 15:48:11 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[26-Jan-2023 15:48:11 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[26-Jan-2023 15:48:11 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[26-Jan-2023 15:48:11 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[26-Jan-2023 15:50:15 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[26-Jan-2023 15:50:15 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[26-Jan-2023 15:50:15 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[26-Jan-2023 15:50:15 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[26-Jan-2023 15:53:48 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 125
+[26-Jan-2023 15:53:48 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 142
+[26-Jan-2023 15:53:48 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 160
+[26-Jan-2023 15:53:48 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/polawmmy/myonline.polaristrustcorp.com/dashboard/admin/menu.php on line 166
+[12-Mar-2023 04:07:22 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/trusvbsz/myonline.eparwisecapital.com/dashboard/admin/menu.php on line 125
+[12-Mar-2023 04:07:22 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/trusvbsz/myonline.eparwisecapital.com/dashboard/admin/menu.php on line 142
+[12-Mar-2023 04:07:22 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/trusvbsz/myonline.eparwisecapital.com/dashboard/admin/menu.php on line 160
+[12-Mar-2023 04:07:22 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/trusvbsz/myonline.eparwisecapital.com/dashboard/admin/menu.php on line 166
+[12-Mar-2023 04:07:22 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/trusvbsz/myonline.eparwisecapital.com/dashboard/admin/dcr.php on line 116
+[13-Mar-2023 18:09:21 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/trusvbsz/myonline.eparwisecapital.com/dashboard/admin/menu.php on line 125
+[13-Mar-2023 18:09:21 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/trusvbsz/myonline.eparwisecapital.com/dashboard/admin/menu.php on line 142
+[13-Mar-2023 18:09:21 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/trusvbsz/myonline.eparwisecapital.com/dashboard/admin/menu.php on line 160
+[13-Mar-2023 18:09:21 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/trusvbsz/myonline.eparwisecapital.com/dashboard/admin/menu.php on line 166
+[13-Mar-2023 18:09:21 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/trusvbsz/myonline.eparwisecapital.com/dashboard/admin/dcr.php on line 116
+[13-Mar-2023 18:09:31 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/trusvbsz/myonline.eparwisecapital.com/dashboard/admin/menu.php on line 125
+[13-Mar-2023 18:09:31 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/trusvbsz/myonline.eparwisecapital.com/dashboard/admin/menu.php on line 142
+[13-Mar-2023 18:09:31 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/trusvbsz/myonline.eparwisecapital.com/dashboard/admin/menu.php on line 160
+[13-Mar-2023 18:09:31 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/trusvbsz/myonline.eparwisecapital.com/dashboard/admin/menu.php on line 166
+[13-Mar-2023 18:09:31 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/trusvbsz/myonline.eparwisecapital.com/dashboard/admin/dcr.php on line 116
+[13-Mar-2023 18:09:31 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/trusvbsz/myonline.eparwisecapital.com/dashboard/admin/menu.php on line 125
+[13-Mar-2023 18:09:31 America/New_York] PHP Notice:  Undefined variable: rowcount1 in /home/trusvbsz/myonline.eparwisecapital.com/dashboard/admin/menu.php on line 142
+[13-Mar-2023 18:09:31 America/New_York] PHP Notice:  Undefined variable: rowcount2 in /home/trusvbsz/myonline.eparwisecapital.com/dashboard/admin/menu.php on line 160
+[13-Mar-2023 18:09:31 America/New_York] PHP Notice:  Undefined variable: rowcount3 in /home/trusvbsz/myonline.eparwisecapital.com/dashboard/admin/menu.php on line 166
+[02-Jul-2023 09:44:35 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'machsrhe_itid'@'localhost' (using password: YES) in /home/machsrhe/ibank.danamontrust.com/dashboard/admin/connectdb.php on line 32
+[02-Jul-2023 09:44:35 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_error(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/machsrhe/ibank.danamontrust.com/dashboard/admin/connectdb.php:34
+Stack trace:
+#0 /home/machsrhe/ibank.danamontrust.com/dashboard/admin/connectdb.php(34): mysqli_error()
+#1 /home/machsrhe/ibank.danamontrust.com/dashboard/admin/class.admin.php(3): require_once('/home/machsrhe/...')
+#2 /home/machsrhe/ibank.danamontrust.com/dashboard/admin/index.php(4): require_once('/home/machsrhe/...')
+#3 {main}
+  thrown in /home/machsrhe/ibank.danamontrust.com/dashboard/admin/connectdb.php on line 34
+[02-Jul-2023 09:44:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'machsrhe_itid'@'localhost' (using password: YES) in /home/machsrhe/ibank.danamontrust.com/dashboard/admin/connectdb.php on line 32
+[02-Jul-2023 09:44:42 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_error(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/machsrhe/ibank.danamontrust.com/dashboard/admin/connectdb.php:34
+Stack trace:
+#0 /home/machsrhe/ibank.danamontrust.com/dashboard/admin/connectdb.php(34): mysqli_error()
+#1 /home/machsrhe/ibank.danamontrust.com/dashboard/admin/class.admin.php(3): require_once('/home/machsrhe/...')
+#2 /home/machsrhe/ibank.danamontrust.com/dashboard/admin/index.php(4): require_once('/home/machsrhe/...')
+#3 {main}
+  thrown in /home/machsrhe/ibank.danamontrust.com/dashboard/admin/connectdb.php on line 34

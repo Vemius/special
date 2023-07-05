@@ -1,0 +1,36 @@
+
+.panel-default {
+    opacity: 0.9;
+    margin-top: 70px;
+}
+
+.btn-sm, .btn-xs {
+    padding: 5px 40%;
+    font-size: 15px;
+    line-height: 1.5;
+    border-radius: 3px;
+}
+.close {
+    letter-spacing: -.025rem;
+    color: #fff;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.form-group.last { margin-bottom:0px; } 
+    
+.btn-success {
+    color: 
+#fff;
+background-color:
+#187718;
+border-color:
+    #187718;
+}
+ .alert-danger {
+
+    color: #fff;
+    background-color: #e30909;
+    border-color: #eed3d7;
+
+}
